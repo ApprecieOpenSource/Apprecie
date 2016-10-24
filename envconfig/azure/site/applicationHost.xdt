@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+    <system.applicationHost>
+        <sites>
+            <site name="%XDT_SITENAME%" xdt:Locator="Match(name)">
+                <limits xdt:Transform="Remove" />
+                <limits connectionTimeout="00:00:30" xdt:Transform="InsertIfMissing" />
+            </site>
+        </sites>
+        <webLimits xdt:Transform="SetAttributes(connectionTimeout)" connectionTimeout="00:00:30"/>
+        <webLimits xdt:Transform="SetAttributes(headerWaitTimeout)" headerWaitTimeout="00:00:30"/>
+        <webLimits xdt:Transform="SetAttributes(minBytesPerSecond)" minBytesPerSecond="250"/>
+    </system.applicationHost>
+</configuration>

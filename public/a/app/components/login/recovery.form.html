@@ -1,0 +1,22 @@
+<div class="row">
+    <div class="col-md-12">
+        <img [src]="logo" class="img-responsive" style="max-height: 150px; padding: 15px; padding-left: 0px;"/>
+        <form id="login-form" action="/login/recovery" method="post" enctype="multipart/form-data" style="margin-top: 0px;">
+            <div class="ibox float-e-margins" style="margin-bottom: 5px;">
+                <div class="ibox-title">
+                    <h5>Account Recovery</h5>
+                </div>
+                <div class="ibox-content">
+                    <div class="form-group">
+                        <label for="emailAddress" class="control-label">Email Address</label>
+                        <input class="form-control" required [(ngModel)]="model.emailAddress" ngControl="emailAddress" #emailAddress="ngForm">
+                    </div>
+                </div>
+                <div class="panel-footer" style="height:55px; padding-right: 0px;padding-left: 0px;">
+                    <a class="btn btn-primary pull-left" (click)="goToLogin()">Back To Login</a>
+                    <button type="submit" class="btn btn-primary pull-right">Send Reset Email</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

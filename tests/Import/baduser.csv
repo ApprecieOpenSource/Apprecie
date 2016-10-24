@@ -1,0 +1,358 @@
+﻿Year,Month,PartnerID,PartnerFirstName,PartnerLastName,PractitionerRegistrations
+2014,1,12,Jenny,Blake,1
+2011,3,12,Jenny,Blake,1
+2013,3,12,Jenny,Blake,1
+2012,4,12,Jenny,Blake,1
+2010,6,12,Jenny,Blake,1
+2010,7,12,Jenny,Blake,2
+2010,8,12,Jenny,Blake,1
+2009,9,12,Jenny,Blake,2
+2010,10,12,Jenny,Blake,4
+2010,11,12,Jenny,Blake,2
+2010,1,15,Stewart,Desson,4
+2011,1,15,Stewart,Desson,4
+2013,1,15,Stewart,Desson,4
+2014,1,15,Stewart,Desson,5
+2015,1,15,Stewart,Desson,10
+2010,2,15,Stewart,Desson,4
+2011,2,15,Stewart,Desson,5
+2012,2,15,Stewart,Desson,8
+2013,2,15,Stewart,Desson,1
+2014,2,15,Stewart,Desson,3
+2015,2,15,Stewart,Desson,1
+2010,3,15,Stewart,Desson,2
+2011,3,15,Stewart,Desson,3
+2012,3,15,Stewart,Desson,3
+2013,3,15,Stewart,Desson,2
+2014,3,15,Stewart,Desson,2
+2010,4,15,Stewart,Desson,3
+2011,4,15,Stewart,Desson,2
+2012,4,15,Stewart,Desson,3
+2013,4,15,Stewart,Desson,10
+2014,4,15,Stewart,Desson,3
+2010,5,15,Stewart,Desson,1
+2011,5,15,Stewart,Desson,1
+2012,5,15,Stewart,Desson,3
+2013,5,15,Stewart,Desson,9
+2014,5,15,Stewart,Desson,6
+2010,6,15,Stewart,Desson,4
+2012,6,15,Stewart,Desson,6
+2013,6,15,Stewart,Desson,8
+2014,6,15,Stewart,Desson,3
+2010,7,15,Stewart,Desson,1
+2011,7,15,Stewart,Desson,1
+2012,7,15,Stewart,Desson,5
+2013,7,15,Stewart,Desson,14
+2014,7,15,Stewart,Desson,6
+2009,8,15,Stewart,Desson,1
+2010,8,15,Stewart,Desson,6
+2011,8,15,Stewart,Desson,1
+2014,8,15,Stewart,Desson,10
+2009,9,15,Stewart,Desson,3
+2010,9,15,Stewart,Desson,1
+2011,9,15,Stewart,Desson,4
+2012,9,15,Stewart,Desson,4
+2013,9,15,Stewart,Desson,5
+2014,9,15,Stewart,Desson,5
+2009,10,15,Stewart,Desson,7
+2010,10,15,Stewart,Desson,2
+2011,10,15,Stewart,Desson,8
+2012,10,15,Stewart,Desson,1
+2013,10,15,Stewart,Desson,9
+2014,10,15,Stewart,Desson,9
+2009,11,15,Stewart,Desson,1
+2010,11,15,Stewart,Desson,1
+2011,11,15,Stewart,Desson,4
+2012,11,15,Stewart,Desson,30
+2013,11,15,Stewart,Desson,16
+2014,11,15,Stewart,Desson,10
+2009,12,15,Stewart,Desson,2
+2010,12,15,Stewart,Desson,2
+2012,12,15,Stewart,Desson,8
+2014,12,15,Stewart,Desson,11
+2010,1,16,Janice,Parviainen,1
+2011,1,16,Janice,Parviainen,2
+2012,1,16,Janice,Parviainen,2
+2013,1,16,Janice,Parviainen,3
+2014,1,16,Janice,Parviainen,8
+2015,1,16,Janice,Parviainen,4
+2011,2,16,Janice,Parviainen,1
+2012,2,16,Janice,Parviainen,1
+2013,2,16,Janice,Parviainen,1
+2014,2,16,Janice,Parviainen,3
+2015,2,16,Janice,Parviainen,1
+2010,3,16,Janice,Parviainen,9
+2011,3,16,Janice,Parviainen,11
+2012,3,16,Janice,Parviainen,1
+2013,3,16,Janice,Parviainen,2
+2014,3,16,Janice,Parviainen,2
+2011,4,16,Janice,Parviainen,1
+2012,4,16,Janice,Parviainen,1
+2013,4,16,Janice,Parviainen,7
+2014,4,16,Janice,Parviainen,5
+2012,5,16,Janice,Parviainen,6
+2013,5,16,Janice,Parviainen,1
+2014,5,16,Janice,Parviainen,6
+2010,6,16,Janice,Parviainen,10
+2011,6,16,Janice,Parviainen,1
+2012,6,16,Janice,Parviainen,5
+2013,6,16,Janice,Parviainen,9
+2014,6,16,Janice,Parviainen,8
+2010,7,16,Janice,Parviainen,3
+2011,7,16,Janice,Parviainen,2
+2013,7,16,Janice,Parviainen,4
+2014,7,16,Janice,Parviainen,5
+2010,8,16,Janice,Parviainen,1
+2011,8,16,Janice,Parviainen,8
+2012,8,16,Janice,Parviainen,5
+2010,9,16,Janice,Parviainen,4
+2013,9,16,Janice,Parviainen,1
+2009,10,16,Janice,Parviainen,1
+2010,10,16,Janice,Parviainen,1
+2011,10,16,Janice,Parviainen,2
+2013,10,16,Janice,Parviainen,1
+2014,10,16,Janice,Parviainen,3
+2010,11,16,Janice,Parviainen,6
+2011,11,16,Janice,Parviainen,2
+2012,11,16,Janice,Parviainen,16
+2014,11,16,Janice,Parviainen,5
+2010,12,16,Janice,Parviainen,1
+2011,12,16,Janice,Parviainen,1
+2012,12,16,Janice,Parviainen,1
+2013,12,16,Janice,Parviainen,2
+2011,1,18,Rebecca,Bales,3
+2012,1,18,Rebecca,Bales,4
+2013,1,18,Rebecca,Bales,1
+2014,1,18,Rebecca,Bales,6
+2011,2,18,Rebecca,Bales,1
+2012,2,18,Rebecca,Bales,3
+2013,2,18,Rebecca,Bales,1
+2010,3,18,Rebecca,Bales,1
+2012,3,18,Rebecca,Bales,10
+2012,4,18,Rebecca,Bales,1
+2014,4,18,Rebecca,Bales,2
+2010,5,18,Rebecca,Bales,8
+2012,5,18,Rebecca,Bales,2
+2014,5,18,Rebecca,Bales,1
+2010,6,18,Rebecca,Bales,6
+2012,6,18,Rebecca,Bales,1
+2013,6,18,Rebecca,Bales,8
+2012,7,18,Rebecca,Bales,1
+2014,7,18,Rebecca,Bales,5
+2010,8,18,Rebecca,Bales,1
+2011,8,18,Rebecca,Bales,1
+2012,8,18,Rebecca,Bales,1
+2013,8,18,Rebecca,Bales,4
+2010,9,18,Rebecca,Bales,3
+2011,9,18,Rebecca,Bales,1
+2012,9,18,Rebecca,Bales,1
+2014,9,18,Rebecca,Bales,2
+2010,10,18,Rebecca,Bales,1
+2012,10,18,Rebecca,Bales,1
+2014,10,18,Rebecca,Bales,5
+2012,11,18,Rebecca,Bales,1
+2013,11,18,Rebecca,Bales,2
+2014,11,18,Rebecca,Bales,1
+2012,12,18,Rebecca,Bales,2
+2014,1,22,Theo,"ten Hagen",1
+2015,1,22,Theo,"ten Hagen",14
+2011,2,22,Theo,"ten Hagen",3
+2014,2,22,Theo,"ten Hagen",7
+2015,2,22,Theo,"ten Hagen",1
+2011,3,22,Theo,"ten Hagen",3
+2012,3,22,Theo,"ten Hagen",9
+2013,3,22,Theo,"ten Hagen",13
+2014,3,22,Theo,"ten Hagen",6
+2010,4,22,Theo,"ten Hagen",2
+2013,4,22,Theo,"ten Hagen",1
+2014,4,22,Theo,"ten Hagen",6
+2011,5,22,Theo,"ten Hagen",4
+2012,5,22,Theo,"ten Hagen",2
+2013,5,22,Theo,"ten Hagen",11
+2014,5,22,Theo,"ten Hagen",1
+2010,6,22,Theo,"ten Hagen",13
+2011,6,22,Theo,"ten Hagen",2
+2012,6,22,Theo,"ten Hagen",5
+2014,6,22,Theo,"ten Hagen",7
+2012,7,22,Theo,"ten Hagen",1
+2014,7,22,Theo,"ten Hagen",10
+2011,8,22,Theo,"ten Hagen",1
+2010,9,22,Theo,"ten Hagen",9
+2011,9,22,Theo,"ten Hagen",4
+2013,9,22,Theo,"ten Hagen",2
+2014,9,22,Theo,"ten Hagen",1
+2010,10,22,Theo,"ten Hagen",7
+2011,10,22,Theo,"ten Hagen",1
+2012,10,22,Theo,"ten Hagen",3
+2014,10,22,Theo,"ten Hagen",9
+2011,11,22,Theo,"ten Hagen",6
+2012,11,22,Theo,"ten Hagen",5
+2013,11,22,Theo,"ten Hagen",3
+2014,11,22,Theo,"ten Hagen",5
+2012,12,22,Theo,"ten Hagen",1
+2013,12,22,Theo,"ten Hagen",3
+2014,1,25,Nicole,"Sorrell Martin",1
+2014,2,25,Nicole,"Sorrell Martin",3
+2011,3,25,Nicole,"Sorrell Martin",3
+2012,4,25,Nicole,"Sorrell Martin",5
+2012,5,25,Nicole,"Sorrell Martin",2
+2013,5,25,Nicole,"Sorrell Martin",1
+2014,5,25,Nicole,"Sorrell Martin",9
+2012,6,25,Nicole,"Sorrell Martin",4
+2013,6,25,Nicole,"Sorrell Martin",5
+2010,7,25,Nicole,"Sorrell Martin",6
+2013,7,25,Nicole,"Sorrell Martin",3
+2012,8,25,Nicole,"Sorrell Martin",7
+2014,8,25,Nicole,"Sorrell Martin",1
+2010,9,25,Nicole,"Sorrell Martin",1
+2012,9,25,Nicole,"Sorrell Martin",1
+2009,10,25,Nicole,"Sorrell Martin",1
+2010,10,25,Nicole,"Sorrell Martin",7
+2012,10,25,Nicole,"Sorrell Martin",3
+2010,11,25,Nicole,"Sorrell Martin",1
+2011,11,25,Nicole,"Sorrell Martin",4
+2012,12,25,Nicole,"Sorrell Martin",2
+2013,12,25,Nicole,"Sorrell Martin",1
+2010,7,27,Rebecca,Bales,1
+2010,1,28,Elizabeth,Handover,1
+2011,1,28,Elizabeth,Handover,1
+2014,1,28,Elizabeth,Handover,1
+2012,2,28,Elizabeth,Handover,4
+2014,2,28,Elizabeth,Handover,2
+2012,3,28,Elizabeth,Handover,2
+2014,3,28,Elizabeth,Handover,1
+2011,5,28,Elizabeth,Handover,3
+2012,5,28,Elizabeth,Handover,3
+2011,6,28,Elizabeth,Handover,1
+2013,6,28,Elizabeth,Handover,1
+2014,6,28,Elizabeth,Handover,5
+2010,7,28,Elizabeth,Handover,2
+2011,7,28,Elizabeth,Handover,2
+2012,7,28,Elizabeth,Handover,1
+2010,9,28,Elizabeth,Handover,12
+2012,9,28,Elizabeth,Handover,4
+2014,9,28,Elizabeth,Handover,3
+2010,10,28,Elizabeth,Handover,3
+2012,10,28,Elizabeth,Handover,3
+2013,10,28,Elizabeth,Handover,1
+2014,11,28,Elizabeth,Handover,4
+2012,12,28,Elizabeth,Handover,3
+2012,5,30,Elke,Brenstein,2
+2012,12,30,Elke,Brenstein,1
+2011,1,32,Gavin,Presman,1
+2012,2,32,Gavin,Presman,3
+2013,2,32,Gavin,Presman,2
+2011,3,32,Gavin,Presman,4
+2012,3,32,Gavin,Presman,2
+2013,3,32,Gavin,Presman,4
+2011,4,32,Gavin,Presman,4
+2013,4,32,Gavin,Presman,2
+2014,4,32,Gavin,Presman,1
+2011,5,32,Gavin,Presman,1
+2012,5,32,Gavin,Presman,5
+2011,6,32,Gavin,Presman,1
+2013,6,32,Gavin,Presman,4
+2012,7,32,Gavin,Presman,1
+2014,8,32,Gavin,Presman,3
+2011,9,32,Gavin,Presman,2
+2014,9,32,Gavin,Presman,1
+2011,10,32,Gavin,Presman,2
+2011,11,32,Gavin,Presman,4
+2013,11,32,Gavin,Presman,1
+2012,12,32,Gavin,Presman,3
+2014,12,32,Gavin,Presman,1
+2010,3,36,Cees,Nieboer,1
+2012,7,36,Cees,Nieboer,2
+2012,12,36,Cees,Nieboer,1
+2011,1,45,Marcela,Ruzkova,1
+2013,1,45,Marcela,Ruzkova,1
+2011,11,45,Marcela,Ruzkova,1
+2012,11,45,Marcela,Ruzkova,1
+2014,12,45,Marcela,Ruzkova,1
+2014,3,49,"Paula Jane",Cox,1
+2013,6,49,"Paula Jane",Cox,1
+2011,7,49,"Paula Jane",Cox,1
+2013,7,49,"Paula Jane",Cox,7
+2014,10,49,"Paula Jane",Cox,5
+2010,1,51,Ayleen,Wisudha,1
+2013,1,51,Ayleen,Wisudha,1
+2013,2,51,Ayleen,Wisudha,1
+2012,3,51,Ayleen,Wisudha,1
+2014,3,51,Ayleen,Wisudha,16
+2010,5,51,Ayleen,Wisudha,1
+2013,5,51,Ayleen,Wisudha,1
+2013,7,51,Ayleen,Wisudha,14
+2009,9,51,Ayleen,Wisudha,1
+2010,10,51,Ayleen,Wisudha,1
+2013,10,51,Ayleen,Wisudha,2
+2013,11,51,Ayleen,Wisudha,1
+2014,11,51,Ayleen,Wisudha,1
+2014,2,61,Tony,Aveling,6
+2013,5,61,Tony,Aveling,1
+2014,5,61,Tony,Aveling,6
+2015,1,62,Helder,Simoes,3
+2011,3,62,Helder,Simoes,1
+2014,11,62,Helder,Simoes,3
+2011,1,66,"Lumina Learning",EMEA,1
+2012,1,66,"Lumina Learning",EMEA,1
+2013,1,66,"Lumina Learning",EMEA,2
+2014,1,66,"Lumina Learning",EMEA,1
+2011,2,66,"Lumina Learning",EMEA,1
+2011,4,66,"Lumina Learning",EMEA,1
+2012,5,66,"Lumina Learning",EMEA,5
+2013,5,66,"Lumina Learning",EMEA,2
+2014,5,66,"Lumina Learning",EMEA,1
+2011,6,66,"Lumina Learning",EMEA,1
+2012,6,66,"Lumina Learning",EMEA,1
+2010,7,66,"Lumina Learning",EMEA,1
+2012,8,66,"Lumina Learning",EMEA,3
+2009,9,66,"Lumina Learning",EMEA,1
+2012,9,66,"Lumina Learning",EMEA,1
+2013,9,66,"Lumina Learning",EMEA,1
+2014,9,66,"Lumina Learning",EMEA,1
+2009,11,66,"Lumina Learning",EMEA,1
+2011,11,66,"Lumina Learning",EMEA,1
+2015,2,71,Rachael,Jay,1
+2014,6,71,Rachael,Jay,2
+2014,9,71,Rachael,Jay,2
+2012,10,71,Rachael,Jay,2
+2013,10,71,Rachael,Jay,2
+2014,10,71,Rachael,Jay,2
+2013,12,71,Rachael,Jay,1
+2013,2,73,Carlos,Santacruz,1
+2014,2,73,Carlos,Santacruz,3
+2012,3,73,Carlos,Santacruz,19
+2013,7,73,Carlos,Santacruz,6
+2012,8,73,Carlos,Santacruz,2
+2013,6,79,Gita,Meldere,1
+2013,11,79,Gita,Meldere,2
+2013,9,82,Shirley,Hulley,1
+2015,1,89,Ingrid,"Wouda Kuipers",6
+2013,3,89,Ingrid,"Wouda Kuipers",1
+2014,4,89,Ingrid,"Wouda Kuipers",7
+2014,10,89,Ingrid,"Wouda Kuipers",7
+2011,5,91,Vincent,Zandona,1
+2014,7,91,Vincent,Zandona,3
+2014,9,91,Vincent,Zandona,1
+2014,11,91,Vincent,Zandona,1
+2014,5,92,Ayleen,Wisudha,4
+2014,6,92,Ayleen,Wisudha,2
+2014,7,92,Ayleen,Wisudha,6
+2013,11,92,Ayleen,Wisudha,1
+2014,11,92,Ayleen,Wisudha,6
+2014,9,94,Cidi,Wee,6
+2012,1,96,Jürgen,Beu,2
+2011,2,96,Jürgen,Beu,1
+2012,2,96,Jürgen,Beu,4
+2011,4,96,Jürgen,Beu,1
+2011,5,96,Jürgen,Beu,2
+2014,7,96,Jürgen,Beu,2
+2010,8,96,Jürgen,Beu,1
+2011,10,96,Jürgen,Beu,1
+2014,10,96,Jürgen,Beu,1
+2010,11,96,Jürgen,Beu,1
+2014,11,96,Jürgen,Beu,2
+2010,8,97,Realise,Partners,1
+2014,8,97,Realise,Partners,1
+2014,11,98,Michele,Guarini,3
+2014,12,98,Michele,Guarini,1

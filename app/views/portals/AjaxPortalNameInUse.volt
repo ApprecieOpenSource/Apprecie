@@ -1,0 +1,1 @@
+{"result": <?= $this->view->portalExists; ?>,"message":"<?=$this->view->errorMessage; ?>"}

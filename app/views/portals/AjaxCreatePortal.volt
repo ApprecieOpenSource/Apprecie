@@ -1,0 +1,1 @@
+{"result": <?= $this->view->createPortal; ?>,"message":"<?=$this->view->errorMessage; ?>"}

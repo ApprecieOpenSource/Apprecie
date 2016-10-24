@@ -1,0 +1,25 @@
+var class_user_note =
+[
+    [ "afterFetch", "class_user_note.html#a8777f9e806898360c129f5f88b4a368e", null ],
+    [ "getBody", "class_user_note.html#ad7bab1db052fb9fcc8bd0b4f3eac29ac", null ],
+    [ "getEncryptionKey", "class_user_note.html#a9c31aa52b6e4dee9f0f9f6c3f617896f", null ],
+    [ "getNoteAboutUserId", "class_user_note.html#a660105b75eb0605adec81eb088b025eb", null ],
+    [ "getNoteCreatorUserId", "class_user_note.html#a01b609f093cbd2d64e5b4ff3544884b4", null ],
+    [ "getNoteId", "class_user_note.html#a2120e3510d9ee17aa00cce5f163b36e9", null ],
+    [ "getPortalId", "class_user_note.html#a8bb6aa99b5d7485f8552fde98a0330a1", null ],
+    [ "getSource", "class_user_note.html#a42fdd8313c99d9c5f80219c1e192b93a", null ],
+    [ "getUserAbout", "class_user_note.html#af088826eb0d392a0ef32443bb99fb7ea", null ],
+    [ "getUserCreator", "class_user_note.html#aae885075f4fd53d568134da8e45e0360", null ],
+    [ "initialize", "class_user_note.html#a91098fa7d1917ce4833f284bbef12627", null ],
+    [ "onConstruct", "class_user_note.html#a5389e540d1b6b3fd959c9a41ebb4d028", null ],
+    [ "setBody", "class_user_note.html#a043c9fa5f271098eb80d5949ba1d6a11", null ],
+    [ "setNoteAboutUserId", "class_user_note.html#a7cd69d117d99414132a9b63919faeb2d", null ],
+    [ "setNoteCreatorUserId", "class_user_note.html#a5783518c3db1c2e139473a7d2c2f2a9f", null ],
+    [ "setNoteId", "class_user_note.html#ac6bec387fe549d333afda82c06979766", null ],
+    [ "setPortalId", "class_user_note.html#a551bcf7c4a46683a6b808d4d865feea2", null ],
+    [ "$body", "class_user_note.html#a26b9f9373f7bb79dfcf8a86dff086b45", null ],
+    [ "$noteAboutUserId", "class_user_note.html#a075cfd31ddbb6815a6e82aa17ff54ae8", null ],
+    [ "$noteCreatorUserId", "class_user_note.html#a84ac5f6e07668ed7dfe67ea8b4a1d4ad", null ],
+    [ "$noteId", "class_user_note.html#a22cf1595313d7f73c5b725f02e11069a", null ],
+    [ "$portalId", "class_user_note.html#a1af9b1d0c37b26ea186b4cda15b6639f", null ]
+];

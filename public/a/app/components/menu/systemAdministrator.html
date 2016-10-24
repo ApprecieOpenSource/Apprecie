@@ -1,0 +1,48 @@
+<nav class="navbar navbar-default" role="navigation">
+    <div>
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="/dashboard">Dashboard</a></li>
+                <li><a href="/portals">Portals</a></li>
+                <li><a href="/adminorgs">Organisation Management</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">People <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="/adminusers">View All</a></li>
+                        <li><a href="/adminusers/create">New Person</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Item Management <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="/items">View All</a></li>
+                        <li><a href="/items/curate">Bulk Publishing</a></li>
+                    </ul>
+                </li>
+                <li><a href="/charts">Charts</a></li>
+                <li><a href="/legal/manage">Legal Documents</a></li>
+                <li><a href="/adminreports">Reports</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle user-dropdown" data-toggle="dropdown"><span style="margin-left: 10px;">{{firstName}} {{lastName}}</span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="/profile/">My Profile</a></li>
+                        <li><a (click)="logout()">Logout</a></li>
+                        <li><a href="/support" target="_blank">Support</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,25 @@
+var class_apprecie_1_1_library_1_1_widgets_1_1_widget_base =
+[
+    [ "__construct", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a46666a3d73bf9eebf765a34c7f7000b5", null ],
+    [ "_", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#abbff3e085a8474ddb2c516755d1980ca", null ],
+    [ "canDispatch", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a7219edb168dcdb4ec42a6c429a442b13", null ],
+    [ "dispatch", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#aa0c7074a88bc64795a74a03d1ecaeba3", null ],
+    [ "doCacheForSeconds", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#af40b08a2d363c4616595f3d42b214474", null ],
+    [ "doIndex", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a30ba36255648909afde7f0484cd27ed7", null ],
+    [ "getAction", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a189a4abe5faf11f4320d5d3f1d3d1715", null ],
+    [ "getAuth", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a6addb0b156546cb01210249378902bd2", null ],
+    [ "getCacheOrAction", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a56fa6efce5a7f1778553a8a564c20e74", null ],
+    [ "getContent", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a58e43f09a06ce4e29b192c4e17ce7915", null ],
+    [ "getErrorMessage", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a3d24ed0e93b212b4d5e382fa795bf4ef", null ],
+    [ "getHalt", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a81da378219d517d09bb5f2434d93a0d8", null ],
+    [ "getParams", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#ae32cd7c32721b02d676bb63b4b1366db", null ],
+    [ "initWidget", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a06d4854192dc5667780e5ac2f435e133", null ],
+    [ "setAction", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a0366b3b0db0bd90abfc461c372f86599", null ],
+    [ "setErrorMessage", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#ade45257a25c7924dcc04cec5cb1af70f", null ],
+    [ "setHalt", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#af6aa548afc6654736b6233d8c144de1b", null ],
+    [ "setParams", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a99452a2ee9dfa3243a205c61d8f728cc", null ],
+    [ "$_action", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#a98d6222017265001c7eb9bcd44ad8ae7", null ],
+    [ "$_doCache", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#ac87067ab393267d410732e7b0ed240f6", null ],
+    [ "$_errorMessage", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#abda5654012229bdc6e11c8818dd20f3d", null ],
+    [ "$_params", "class_apprecie_1_1_library_1_1_widgets_1_1_widget_base.html#aff25584819f2e6f56d7dbc14f26d32c1", null ]
+];

@@ -1,0 +1,1 @@
+{{widget('AdminReportsWidget', 'orders')}}

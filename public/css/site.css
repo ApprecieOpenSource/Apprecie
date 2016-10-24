@@ -1,0 +1,1094 @@
+@import url("//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en");
+/*
+ *
+ *   INSPINIA - Responsive Admin Theme
+ *   Copyright 2014 Webapplayers.com
+ *
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 100;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 16px;
+}
+h4 {
+    font-size: 14px;
+}
+h5 {
+    font-size: 12px;
+}
+h6 {
+    font-size: 10px;
+}
+h3,
+h4,
+h5 {
+    margin-top: 5px;
+    font-weight: 600;
+}
+body {
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-size: 13px;
+    color: #676a6c;
+    overflow-x: hidden;
+}
+.wrapper-content {
+    padding: 20px 10px 40px;
+}
+.ibox-content h1,
+.ibox-content h2,
+.ibox-content h3,
+.ibox-content h4,
+.ibox-content h5,
+.ibox-title h1,
+.ibox-title h2,
+.ibox-title h3,
+.ibox-title h4,
+.ibox-title h5 {
+    margin-top: 5px;
+}
+
+.ibox-content.text-box {
+    padding-bottom: 0px;
+    padding-top: 15px;
+}
+
+.ibox {
+    clear: both;
+    margin-bottom: 25px;
+    margin-top: 0;
+    padding: 0;
+}
+.ibox:after,
+.ibox:before {
+    display: table;
+}
+.ibox-title {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #ffffff;
+    border-color: #e7eaec;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 4px 0px 0;
+    color: inherit;
+    margin-bottom: 0;
+    padding: 14px 15px 7px;
+    height: 48px;
+}
+.ibox-content {
+    background-color: #ffffff;
+    color: inherit;
+    padding: 15px 20px 20px 20px;
+    border-color: #e7eaec;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 0px;
+}
+
+.ibox-content-min {
+    padding: 15px 0px 20px 0px;
+}
+
+.ibox-content {
+    clear: both;
+}
+.ibox-heading {
+    background-color: #f3f6fb;
+    border-bottom: none;
+}
+.ibox-heading h3 {
+    font-weight: 200;
+    font-size: 24px;
+}
+.ibox-title h5 {
+    display: inline-block;
+    font-size: 14px;
+    margin: 0 0 7px;
+    padding: 0;
+    text-overflow: ellipsis;
+    float: left;
+}
+.ibox-title .label {
+    float: left;
+    margin-left: 4px;
+}
+.ibox-tools {
+    display: inline-block;
+    float: right;
+    margin-top: 0;
+    position: relative;
+    padding: 0;
+}
+.ibox-tools a {
+    cursor: pointer;
+    margin-left: 5px;
+    color: #c4c4c4;
+}
+.ibox-tools a.btn-primary {
+    color: #fff;
+}
+.ibox-tools .dropdown-menu > li > a {
+    padding: 4px 10px;
+    font-size: 12px;
+}
+
+.feed-activity-list .feed-element {
+    border-bottom: 1px solid #e7eaec;
+}
+.feed-element:first-child {
+    margin-top: 0;
+}
+.feed-element {
+    padding-bottom: 15px;
+}
+.feed-element,
+.feed-element .media {
+    margin-top: 15px;
+}
+.feed-element,
+.media-body {
+    overflow: hidden;
+}
+.feed-element > .pull-left {
+    margin-right: 10px;
+}
+.feed-element img.img-circle,
+.dropdown-messages-box img.img-circle {
+    width: 38px;
+    height: 38px;
+}
+.feed-element .well {
+    border: 1px solid #e7eaec;
+    box-shadow: none;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 10px 20px;
+    font-size: 11px;
+    line-height: 16px;
+}
+.feed-element .actions {
+    margin-top: 10px;
+}
+.feed-element .photos {
+    margin: 10px 0;
+}
+
+
+.carousel-captions{
+    position: absolute;
+    bottom: 0px;
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    width: 100%;
+}
+
+#logo-container{
+    text-align: center;
+}
+
+#login-box{
+    margin-top: 50px;
+    background-color: white;
+    padding: 15px;
+}
+
+#login-form{
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+.recovery-links{
+    margin-top: 9px;
+    font-size: 12px;
+    text-align: right;
+}
+a:link{
+    color:#4494D0;
+}
+a{
+    color:#4494D0;
+}
+a:hover{
+    color: #2F4050;
+}
+
+.form-label{
+    font-weight: normal;
+}
+
+.no-padding{
+    padding: 0px;
+}
+
+.navbar-brand{
+    padding: 5px 5px;
+}
+
+.navbar-collapse{
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+.navbar{
+    margin-bottom: 0px;
+    border-radius: 0;
+}
+.navbar-default {
+    background-color: #5C5E62;
+     border-color: #5C5E62;
+    border:0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: white;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: white;
+    background-color: #F3713C;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    color: white;
+    background-color: #F3713C;
+}
+
+.progress-bar{
+    background-color: #4494D0;
+}
+.progress{
+    background-color: #F8F8F8;
+}
+.progress-bar-complete{
+    background-color: #5cb85c;
+}
+.progress-bar.progress-bar-complete{
+    background-color: #5cb85c;
+}
+.progress-bar-danger {
+    background-color: #d9534f;
+}
+.progress-bar.progress-bar-danger {
+    background-color: #d9534f;
+}
+.progress-bar-success {
+    background-color: #5cb85c;
+}
+.progress-bar.progress-bar-success {
+    background-color: #5cb85c;
+}
+.progress-bar-warning{
+    background-color: #F2C066;
+}
+.progress-bar.progress-bar-warning{
+    background-color: #F2C066;
+}
+
+select.form-control{
+    max-width: 386px;
+}
+
+.well-highlight{
+    background-color: #4494D0;
+    color:white;
+}
+
+.panel-footer{
+    background-color: white;
+}
+
+.btn-primary{
+    background-color: #5C5E62;
+    border-color: #5C5E62;
+    color: white !important;
+}
+
+.btn-primary:hover{
+    background-color: #5C5E62;
+    border-color: #5C5E62;
+}
+
+.btn-primary:focus{
+    background-color: #5C5E62;
+    border-color: #5C5E62;
+}
+.step{
+    display:none;
+}
+
+.form-horizontal .form-group {
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.modal-content{
+    border-radius: 0px;
+}
+
+.btn{
+    border-radius: 0px;
+}
+
+.form-control, .input-group-addon{
+    border-radius: 0px;
+}
+
+.table{
+    font-size: 13px;
+}
+
+.label-lg{
+    font-size: 13px;
+}
+
+.label-button{
+    cursor: pointer;
+}
+h2{
+    margin-bottom: 20px;
+}
+
+.brand-img{
+    height: 58px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #F3713C;
+}
+
+.media-left, .media-right, .media-body {
+    display: table-cell;
+    vertical-align: top;
+}
+.media-left, .media>.pull-left {
+    padding-right: 10px;
+}
+
+.media-body{
+    width:100%;
+}
+
+.media{
+    border-bottom: 1px solid rgb(215, 215, 215);
+    padding-bottom: 5px;
+}
+
+.number-field{
+    max-width: 100px;
+}
+
+.ajax-loader-container{
+    padding: 15px;
+    display: none;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    left:50%;
+    margin-left: -115px;
+    background-color: #5CB85C;
+    color:white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width:230px;
+}
+
+form {
+    margin-bottom: 0px;
+}
+
+@media(max-width:786px){
+    .navbar-default .navbar-nav>li>a {
+        padding-left: 20px;
+    }
+}
+
+.profile-micro{
+    border: 1px solid lightgray;
+}
+
+.user-dropdown{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.status-warning{
+    color: #f0ad4e;
+}
+.status-success{
+    color: #5cb85c;
+}
+.status-danger{
+    color: #d9534f;
+}
+
+.item-text{
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.78);
+    position: absolute;
+    bottom:0px;
+    padding: 10px;
+    color:white;
+    font-size: 16px;
+}
+.item-banner{
+    border: 1px solid lightgrey;
+    width:100%;
+    background-color: rgba(255, 255, 255, 0.96);
+    position: absolute;
+    top:0px;
+    padding: 10px;
+    color:#676a6c;
+    font-size: 16px;
+}
+.item-container{
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.btn-bottom-margin{
+    margin-bottom: 15px;
+}
+
+.help{
+    display:none;
+}
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.thumb{
+    padding-left:2px;
+    padding-right:2px;
+}
+
+.timeline-item{
+    padding: 5px 0px;
+    border-bottom: 1px solid #e7eaec;
+}
+
+.pager-button{
+    cursor:pointer;
+}
+
+.carousel-text{
+    position: absolute;
+    width:100%;
+    padding:15px;
+    bottom:0;
+    background-image: url("/img/titlebg.png");
+
+    font-family: 'Quicksand', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
+}
+.carousel-footer{
+    position: absolute;
+    width:100%;
+    padding:10px;
+    bottom:0;
+    background-color: white;
+    opacity: 0.8;
+    font-size: 16px;
+    color:black;
+}
+
+.carousel-text-sm{
+    position: absolute;
+    width:100%;
+    padding:10px;
+    top:0;
+    background-color: black;
+    opacity: 0.9;
+    font-size: 13px;
+    color:white;
+}
+.carousel-footer-sm{
+    position: absolute;
+    width:100%;
+    padding:5px;
+    bottom:0;
+    background-color: white;
+    opacity: 0.8;
+    font-size: 13px;
+    color:black;
+}
+
+.link{
+    cursor:pointer;
+}
+
+.selected-category{
+    border:1px solid black;
+}
+
+.alert-thin{
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.alert-plain{
+    background-color: #f3f3f4;
+    border-color: #e7eaec;
+}
+
+.search-title{
+    margin-top: 15px !important; display:block;
+}
+
+.large-icon{
+    font-size:20px;
+}
+
+.dont-display{
+    display: none;
+}
+
+.carousel-sm{
+    font-size:14px;
+    padding:5px;
+}
+
+.carouse-static{
+    position: relative;
+}
+
+.full-width{
+    width:100% !important;
+    max-width:100% !important;
+}
+
+.form-horizontal .radio, .form-horizontal .checkbox, .form-horizontal .radio-inline, .form-horizontal .checkbox-inline {
+    padding-top: 3px;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: rgba(0,0,0,0.5); /*dim the background*/
+}
+.overlay-message{
+    padding-top:150px;
+    width:100%;
+    text-align: center;
+    color:white;
+}
+
+.user-type{
+    padding-top:15px;
+}
+
+/* This is the default Tooltipster theme (feel free to modify or duplicate and create multiple themes!): */
+.tooltipster-default {
+    border-radius: 5px;
+    border: 1px solid #ABABAB;
+    background: #f3f3f4;
+    color: #616060;
+}
+
+/* Use this next selector to style things like font-size and line-height: */
+.tooltipster-default .tooltipster-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 8px 10px;
+    overflow: hidden;
+}
+
+/* This next selector defines the color of the border on the outside of the arrow. This will automatically match the color and size of the border set on the main tooltip styles. Set display: none; if you would like a border around the tooltip but no border around the arrow */
+.tooltipster-default .tooltipster-arrow .tooltipster-arrow-border {
+    /* border-color: ... !important; */
+}
+
+
+/* If you're using the icon option, use this next selector to style them */
+.tooltipster-icon {
+    cursor: help;
+    margin-left: 4px;
+}
+
+
+
+
+
+
+
+
+/* This is the base styling required to make all Tooltipsters work */
+.tooltipster-base {
+    padding: 0;
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 9999999;
+    pointer-events: none;
+    width: auto;
+    overflow: visible;
+}
+.tooltipster-base .tooltipster-content {
+    overflow: hidden;
+}
+
+
+/* These next classes handle the styles for the little arrow attached to the tooltip. By default, the arrow will inherit the same colors and border as what is set on the main tooltip itself. */
+.tooltipster-arrow {
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.tooltipster-arrow span, .tooltipster-arrow-border {
+    display: block;
+    width: 0;
+    height: 0;
+    position: absolute;
+}
+.tooltipster-arrow-top span, .tooltipster-arrow-top-right span, .tooltipster-arrow-top-left span {
+    border-left: 8px solid transparent !important;
+    border-right: 8px solid transparent !important;
+    border-top: 8px solid;
+    bottom: -7px;
+}
+.tooltipster-arrow-top .tooltipster-arrow-border, .tooltipster-arrow-top-right .tooltipster-arrow-border, .tooltipster-arrow-top-left .tooltipster-arrow-border {
+    border-left: 9px solid transparent !important;
+    border-right: 9px solid transparent !important;
+    border-top: 9px solid;
+    bottom: -7px;
+}
+
+.tooltipster-arrow-bottom span, .tooltipster-arrow-bottom-right span, .tooltipster-arrow-bottom-left span {
+    border-left: 8px solid transparent !important;
+    border-right: 8px solid transparent !important;
+    border-bottom: 8px solid;
+    top: -7px;
+}
+.tooltipster-arrow-bottom .tooltipster-arrow-border, .tooltipster-arrow-bottom-right .tooltipster-arrow-border, .tooltipster-arrow-bottom-left .tooltipster-arrow-border {
+    border-left: 9px solid transparent !important;
+    border-right: 9px solid transparent !important;
+    border-bottom: 9px solid;
+    top: -7px;
+}
+.tooltipster-arrow-top span, .tooltipster-arrow-top .tooltipster-arrow-border, .tooltipster-arrow-bottom span, .tooltipster-arrow-bottom .tooltipster-arrow-border {
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.tooltipster-arrow-top-left span, .tooltipster-arrow-bottom-left span {
+    left: 6px;
+}
+.tooltipster-arrow-top-left .tooltipster-arrow-border, .tooltipster-arrow-bottom-left .tooltipster-arrow-border {
+    left: 5px;
+}
+.tooltipster-arrow-top-right span,  .tooltipster-arrow-bottom-right span {
+    right: 6px;
+}
+.tooltipster-arrow-top-right .tooltipster-arrow-border, .tooltipster-arrow-bottom-right .tooltipster-arrow-border {
+    right: 5px;
+}
+.tooltipster-arrow-left span, .tooltipster-arrow-left .tooltipster-arrow-border {
+    border-top: 8px solid transparent !important;
+    border-bottom: 8px solid transparent !important;
+    border-left: 8px solid;
+    top: 50%;
+    margin-top: -7px;
+    right: -7px;
+}
+.tooltipster-arrow-left .tooltipster-arrow-border {
+    border-top: 9px solid transparent !important;
+    border-bottom: 9px solid transparent !important;
+    border-left: 9px solid;
+    margin-top: -8px;
+}
+.tooltipster-arrow-right span, .tooltipster-arrow-right .tooltipster-arrow-border {
+    border-top: 8px solid transparent !important;
+    border-bottom: 8px solid transparent !important;
+    border-right: 8px solid;
+    top: 50%;
+    margin-top: -7px;
+    left: -7px;
+}
+.tooltipster-arrow-right .tooltipster-arrow-border {
+    border-top: 9px solid transparent !important;
+    border-bottom: 9px solid transparent !important;
+    border-right: 9px solid;
+    margin-top: -8px;
+}
+
+
+/* Some CSS magic for the awesome animations - feel free to make your own custom animations and reference it in your Tooltipster settings! */
+
+.tooltipster-fade {
+    opacity: 0;
+    -webkit-transition-property: opacity;
+    -moz-transition-property: opacity;
+    -o-transition-property: opacity;
+    -ms-transition-property: opacity;
+    transition-property: opacity;
+}
+.tooltipster-fade-show {
+    opacity: 1;
+}
+
+.tooltipster-grow {
+    -webkit-transform: scale(0,0);
+    -moz-transform: scale(0,0);
+    -o-transform: scale(0,0);
+    -ms-transform: scale(0,0);
+    transform: scale(0,0);
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    -ms-transition-property: -ms-transform;
+    transition-property: transform;
+    -webkit-backface-visibility: hidden;
+}
+.tooltipster-grow-show {
+    -webkit-transform: scale(1,1);
+    -moz-transform: scale(1,1);
+    -o-transform: scale(1,1);
+    -ms-transform: scale(1,1);
+    transform: scale(1,1);
+    -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+    -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -moz-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -ms-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -o-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+}
+
+.tooltipster-swing {
+    opacity: 0;
+    -webkit-transform: rotateZ(4deg);
+    -moz-transform: rotateZ(4deg);
+    -o-transform: rotateZ(4deg);
+    -ms-transform: rotateZ(4deg);
+    transform: rotateZ(4deg);
+    -webkit-transition-property: -webkit-transform, opacity;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    -ms-transition-property: -ms-transform;
+    transition-property: transform;
+}
+.tooltipster-swing-show {
+    opacity: 1;
+    -webkit-transform: rotateZ(0deg);
+    -moz-transform: rotateZ(0deg);
+    -o-transform: rotateZ(0deg);
+    -ms-transform: rotateZ(0deg);
+    transform: rotateZ(0deg);
+    -webkit-transition-timing-function: cubic-bezier(0.230, 0.635, 0.495, 1);
+    -webkit-transition-timing-function: cubic-bezier(0.230, 0.635, 0.495, 2.4);
+    -moz-transition-timing-function: cubic-bezier(0.230, 0.635, 0.495, 2.4);
+    -ms-transition-timing-function: cubic-bezier(0.230, 0.635, 0.495, 2.4);
+    -o-transition-timing-function: cubic-bezier(0.230, 0.635, 0.495, 2.4);
+    transition-timing-function: cubic-bezier(0.230, 0.635, 0.495, 2.4);
+}
+
+.tooltipster-fall {
+    top: 0;
+    -webkit-transition-property: top;
+    -moz-transition-property: top;
+    -o-transition-property: top;
+    -ms-transition-property: top;
+    transition-property: top;
+    -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+    -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -moz-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -ms-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -o-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+}
+.tooltipster-fall-show {
+}
+.tooltipster-fall.tooltipster-dying {
+    -webkit-transition-property: all;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    -ms-transition-property: all;
+    transition-property: all;
+    top: 0px !important;
+    opacity: 0;
+}
+
+.tooltipster-slide {
+    left: -40px;
+    -webkit-transition-property: left;
+    -moz-transition-property: left;
+    -o-transition-property: left;
+    -ms-transition-property: left;
+    transition-property: left;
+    -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1);
+    -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -moz-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -ms-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    -o-transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+    transition-timing-function: cubic-bezier(0.175, 0.885, 0.320, 1.15);
+}
+.tooltipster-slide.tooltipster-slide-show {
+}
+.tooltipster-slide.tooltipster-dying {
+    -webkit-transition-property: all;
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    -ms-transition-property: all;
+    transition-property: all;
+    left: 0px !important;
+    opacity: 0;
+}
+
+
+/* CSS transition for when contenting is changing in a tooltip that is still open. The only properties that will NOT transition are: width, height, top, and left */
+.tooltipster-content-changing {
+    opacity: 0.5;
+    -webkit-transform: scale(1.1, 1.1);
+    -moz-transform: scale(1.1, 1.1);
+    -o-transform: scale(1.1, 1.1);
+    -ms-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+}
+
+.label-default {background-color: #676A6C;}
+
+.label {font-weight: inherit;}
+
+.text-left-not-xs, .text-left-not-sm, .text-left-not-md, .text-left-not-lg {
+    text-align: left;
+}
+.text-center-not-xs, .text-center-not-sm, .text-center-not-md, .text-center-not-lg {
+    text-align: center;
+}
+.text-right-not-xs, .text-right-not-sm, .text-right-not-md, .text-right-not-lg {
+    text-align: right;
+}
+.text-justify-not-xs, .text-justify-not-sm, .text-justify-not-md, .text-justify-not-lg {
+    text-align: justify;
+}
+
+@media (max-width: 767px) {
+    .text-left-not-xs, .text-center-not-xs, .text-right-not-xs, .text-justify-not-xs {
+        text-align: inherit;
+    }
+    .text-left-xs {
+        text-align: left;
+    }
+    .text-center-xs {
+        text-align: center;
+    }
+    .text-right-xs {
+        text-align: right;
+    }
+    .text-justify-xs {
+        text-align: justify;
+    }
+    .carousel-image{
+        max-height:528px;
+        width:100%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .text-left-not-sm, .text-center-not-sm, .text-right-not-sm, .text-justify-not-sm {
+        text-align: inherit;
+    }
+    .text-left-sm {
+        text-align: left;
+    }
+    .text-center-sm {
+        text-align: center;
+    }
+    .text-right-sm {
+        text-align: right;
+    }
+    .text-justify-sm {
+        text-align: justify;
+    }
+    .tile-image{
+        max-height:100%;
+    }
+    .carousel-image{
+        max-height:528px;
+        width:100%;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .text-left-not-md, .text-center-not-md, .text-right-not-md, .text-justify-not-md {
+        text-align: inherit;
+    }
+    .text-left-md {
+        text-align: left;
+    }
+    .text-center-md {
+        text-align: center;
+    }
+    .text-right-md {
+        text-align: right;
+    }
+    .text-justify-md {
+        text-align: justify;
+    }
+    .tile-image{
+        max-height:262px;
+    }
+    .carousel-image{
+        max-height:528px;
+        width:100%;
+    }
+}
+@media (min-width: 1200px) {
+    .text-left-not-lg, .text-center-not-lg, .text-right-not-lg, .text-justify-not-lg {
+        text-align: inherit;
+    }
+    .text-left-lg {
+        text-align: left;
+    }
+    .text-center-lg {
+        text-align: center;
+    }
+    .text-right-lg {
+        text-align: right;
+    }
+    .text-justify-lg {
+        text-align: justify;
+    }
+    .tile-image{
+        max-height:306px;
+    }
+    .carousel-image{
+        max-height:312px;
+        width:100%;
+    }
+}
+
+.highlight{
+    background-color: #d9edf7;
+    color:#31708f;
+}
+.highlight:hover>td{
+    background-color: #31708f !important;
+    color:#d9edf7;
+}
+
+.tile-title{
+    padding: 5px; background-image:url("/img/titlebg.png");  color:white;width: 100%; position:absolute; bottom:0;
+}
+.item-tile-desc{
+    display:none; height:100%; padding: 5px; color:white;width: 100%;
+}
+
+.item-container{
+    margin-bottom: 25px;
+}
+
+.h4-link{
+    color:white;
+}
+
+.suggestion-notice{
+    background-color: #58963D;
+    color: white;
+    padding: 5px;
+}
+
+.price-notice{
+    background-color: #58963D;
+    color: white;
+    padding: 5px;
+}
+
+.distance-notice{
+    background-color: #273e96;
+    color: white;
+    padding: 5px;
+}
+
+.notice-container{
+    position: absolute;
+    top: 10px;
+    right: 5px;
+}
+.selected-filter{
+    background-color: darkgrey;
+    color: white;
+}
+
+.vault-filter{
+    cursor: pointer;
+}
+
+.georesult{
+    padding:5px;
+    cursor: pointer;
+}
+
+.georesult:hover{
+    background-color: #f3f3f4;
+}
+
+.ng-valid[required] {
+    border-left: 5px solid #42A948; /* green */
+}
+
+.ng-invalid {
+    border-left: 5px solid #a94442; /* red */
+}

@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['_5f_5fconstruct',['__construct',['../class_apprecie_1_1_library_1_1_cache_1_1_wincache.html#ac4ebc425e1626b0516f76f8f824fa174',1,'Apprecie\Library\Cache\Wincache\__construct()'],['../class_apprecie_1_1_library_1_1_collections_1_1_collection.html#aa1b260e369e83d0dc7ca4406c8dff1d3',1,'Apprecie\Library\Collections\Collection\__construct()'],['../class_apprecie_1_1_library_1_1_file_i_o_1_1_file_search_iterator.html#aea5f0d98b7b3d0d140d330209328768f',1,'Apprecie\Library\FileIO\FileSearchIterator\__construct()'],['../class_apprecie_1_1_library_1_1_testing_1_1_test_file_iterator.html#a03853ceaa393e487835b287de58aba5a',1,'Apprecie\Library\Testing\TestFileIterator\__construct()'],['../class_apprecie_1_1_library_1_1_testing_1_1_test_strap.html#ab6b572b6638f28407a818a02e540a10c',1,'Apprecie\Library\Testing\TestStrap\__construct()']]]
+];

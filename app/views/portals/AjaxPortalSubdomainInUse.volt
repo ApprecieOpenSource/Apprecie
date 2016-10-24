@@ -1,0 +1,1 @@
+{"result": <?= $this->view->subdomainExists; ?>,"message":"<?=$this->view->errorMessage; ?>"}

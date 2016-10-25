@@ -1,6 +1,6 @@
 # README #
 
-Please see the [setup document](Apprecie/documentation/Apprecie Development Environment Setup v005.doc) to show how to set up a Development Environment for the Apprecie Platform on a Windows 10 machine.  If defines how to both create the Runtime Environment along with Managing the Codebase connected to a GIT repository.
+Please see the setup document "/documentation/Apprecie Development Environment Setup v005.doc" to show how to set up a Development Environment for the Apprecie Platform on a Windows 10 machine.  If defines how to both create the Runtime Environment along with Managing the Codebase connected to a GIT repository.
 
 The Apprecie Platform is written using PHP and JQuery with a MySQL database.  It uses two frameworks to simplify development, Phalcon for server side and Angular for client side processing.
 
